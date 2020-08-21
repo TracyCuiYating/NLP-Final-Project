@@ -1,5 +1,5 @@
 # NLP-Final-Project
-This is the final project for Whitman CS 357 Natural Language Processing. 
+This is the final project for Whitman CS 357 Natural Language Processing (2019 Fall). 
 Created by Tracy Cui and Tina Tao
 
 
